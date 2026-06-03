@@ -1,0 +1,8 @@
+# Ignore all .jpg files
+*.jpg 
+
+# Ignore KEY.txt in the root directory
+/KEY.txt 
+
+# Ignore everything in the API directory
+/API/ 
